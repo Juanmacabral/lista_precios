@@ -1,0 +1,8 @@
+# Archivos específicos para Python
+*.json
+*.csv
+*.xlsx
+
+# Archivos y directorios generados por Python
+__pycache__/
+*.pyc
