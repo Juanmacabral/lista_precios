@@ -2,6 +2,7 @@
 *.json
 *.csv
 *.xlsx
+*.zip
 
 # Archivos y directorios generados por Python
 __pycache__/
